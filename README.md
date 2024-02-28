@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+My name is Joe, I'm a U.S. Navy veteran currently attending school for Software Development and Security. I'm interested in all things AI, Python, and data security.
+
+- 🔭 I’m currently working on nothing presently
+- 🌱 I’m currently learning Java, Python, and SQL
+- 🤔 I’m looking for help with getting started here on GitHub and possibly doing some collabs in Java or Python
+
 <!--
 **Grimwald79/grimwald79** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
